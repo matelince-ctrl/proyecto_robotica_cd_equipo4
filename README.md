@@ -1,5 +1,14 @@
-proyecto_robotica_cd_equipo4
-Estación 4 
+Estación 4 - Fijación por cama caliente
+
+Proyecto Robótica y Control Digital
+Universidad EIA
+Ingeniería Mecatrónica
+
+## Integrantes
+- Sebastian Palacio
+- Felipe Vasquez
+- Orlando Velasquez
+- Mateo Lince
 
 Este repositorio contiene el desarrollo de la estación 4 de una línea automatizada para ensamblaje de PCB. La estación utiliza un manipulador SCARA de configuración PRR para transportar una PCB hacia una cama caliente, realizar el proceso térmico y enviarla a la siguiente estación.
 
